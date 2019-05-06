@@ -1,0 +1,7 @@
+C:\Users\Fam RN\source\Ejercicios C\E24_ImprimirNombre\E24_ImprimirNombre\bin\Debug\E24_ImprimirNombre.exe.config
+C:\Users\Fam RN\source\Ejercicios C\E24_ImprimirNombre\E24_ImprimirNombre\bin\Debug\E24_ImprimirNombre.exe
+C:\Users\Fam RN\source\Ejercicios C\E24_ImprimirNombre\E24_ImprimirNombre\bin\Debug\E24_ImprimirNombre.pdb
+C:\Users\Fam RN\source\Ejercicios C\E24_ImprimirNombre\E24_ImprimirNombre\obj\Debug\E24_ImprimirNombre.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\Ejercicios C\E24_ImprimirNombre\E24_ImprimirNombre\obj\Debug\E24_ImprimirNombre.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\Ejercicios C\E24_ImprimirNombre\E24_ImprimirNombre\obj\Debug\E24_ImprimirNombre.exe
+C:\Users\Fam RN\source\Ejercicios C\E24_ImprimirNombre\E24_ImprimirNombre\obj\Debug\E24_ImprimirNombre.pdb
